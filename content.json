@@ -1,0 +1,65 @@
+{
+  "theme": {
+    "background": "#4a111c",
+    "accent": "#cda45d",
+    "text": "#eee4d5",
+    "muted": "#d8cfc4"
+  },
+  "brand": {
+    "name": "STORIES BY KARU",
+    "tagline": "weddings & stories",
+    "logo": "storiesbykaru_logo.png"
+  },
+  "hero": {
+    "eyebrow": "South Indian Wedding Photography",
+    "title": "Stories by Karu",
+    "text": "Photographs of people, rituals, laughter and all the quiet moments in between.",
+    "image": "DLS08268.jpg"
+  },
+  "navigation": [
+    "Work",
+    "Story",
+    "Contact"
+  ],
+  "work": {
+    "title": "Selected stories",
+    "note": "Weddings · Couples · People",
+    "images": [
+      "DLS02163.jpg",
+      "DLS05817.jpg",
+      "DLS07427.jpg",
+      "DLS08599.jpg",
+      "DLS06650.jpg",
+      "DLS08637.jpg",
+      "DLS09281.jpg",
+      "DLS00719.jpg",
+      "DLS05759.jpg"
+    ]
+  },
+  "story": {
+    "eyebrow": "The way we remember",
+    "title": "Made to feel like you.",
+    "text": "Wedding photographs that hold onto the atmosphere, the people and the little moments that make each celebration yours.",
+    "image": "DLS07427.jpg"
+  },
+  "contact": {
+    "eyebrow": "Let’s make something worth remembering",
+    "title": "Tell me your story.",
+    "instagram": "",
+    "whatsapp": "",
+    "email": "",
+    "description": "Independent photographer · Available for weddings & commissioned work"
+  },
+  "galleries": [
+    {
+      "name": "Sample Wedding",
+      "subtitle": "A wedding story",
+      "cover": "DLS08268.jpg",
+      "images": [
+        "DLS08268.jpg",
+        "DLS02163.jpg",
+        "DLS05817.jpg"
+      ]
+    }
+  ]
+}
